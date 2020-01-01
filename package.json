@@ -1,5 +1,15 @@
 {
+  "name": "expo-weather-app",
   "main": "node_modules/expo/AppEntry.js",
+  "author": {
+    "name": "Pon Cheol Ku",
+    "email": "bbon@bbon.kr",
+    "url": "https://bbon.kr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bbonkr/expo-weather.git"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
